@@ -35,3 +35,19 @@ String.prototype.toAlternatingCase = function () {
 ```
 ## Experience
 https://github.com/rihard363/skillbox.git
+
+## Education
+
+* **Universitu:** Vitebsk Masherov State University, Vitebsk
+    + Faculty: Mathematics
+    + Specialty: Mathematics, Physics
+    + Qualification: Teacher
+* **Courses:** 
+    + Skillbox HTML&CSS
+    + Skillbox JavaScript
+
+## Languages
+* Russian — Native
+* Belarusian — Native
+* Deutsche — A2
+* English — A1 Beginner, I can read technical documentation, sometimes I need a dictionary
